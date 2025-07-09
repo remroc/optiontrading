@@ -8,4 +8,5 @@ During that project :
 - execution of orders in a paper trading IBKR account
 - application of Machine Learning to improve the results
 
-Leo's linkedin : https://www.linkedin.com/in/l%C3%A9o-z-5530882b4/
+Leo's linkedin : 
+https://www.linkedin.com/in/l%C3%A9o-z-5530882b4/
