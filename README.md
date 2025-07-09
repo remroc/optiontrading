@@ -12,3 +12,5 @@ Leo's linkedin :
 https://www.linkedin.com/in/l%C3%A9o-z-5530882b4/
 
 ![Butterfly](https://github.com/remroc/optiontrading/blob/main/optiontrading.png)
+
+![Backtesting](https://github.com/remroc/optiontrading/blob/main/backtesting.png)
